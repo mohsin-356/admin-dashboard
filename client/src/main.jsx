@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 
 import { configureStore } from '@reduxjs/toolkit'
-import globalReducer from "state";
+import globalReducer from "./state/index";
 
 const store = configureStore({
   reducer: {
