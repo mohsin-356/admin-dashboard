@@ -8,6 +8,7 @@ import {
   Menu as MenuIcon
 } from '@mui/icons-material';
 import FlexBetween from './FlexBetween';
+// import { useTheme } from '@mui/material';
 // import { setMode } from '../state/index.js';
 // import { useDispatch } from 'react-redux';
 // import profileImage from "../assets/profile-photo.jpg";
